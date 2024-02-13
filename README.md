@@ -23,4 +23,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=web1havv&show_icons=true&locale=en" alt="web1havv" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=web1havv&" alt="web1havv" /></p>
-[![](https://visitcount.itsvg.in/api?id=web1havv&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=web1havv&label=Profile%20Views&pretty=false" />
+</a>
